@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Herd Behavior Alerter 🛒⚡
 
 A real-time e-commerce analytics tool that detects **herd behavior** — sudden surges of user activity on specific products — to help marketing and inventory teams identify trending items instantly.
@@ -52,3 +53,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.  
 
 ---
+=======
+# herd-behavior-alerter
+A real-time e-commerce analytics tool that detects herd behavior — sudden surges of user activity on specific products — to help marketing and inventory teams identify trending items instantly.
+>>>>>>> 56e315752f5878888bf5201f99fc26039364cda0
